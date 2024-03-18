@@ -5,7 +5,7 @@ Entrei no mundo da programação há alguns meses, tendo começado pela linguage
 Depois de um tempo comecei a aprender python e logo me interessei pela sua facilidade em lidar com dados, IA e automações.<br>
 E estou nele desde então, tento sempre aprender uma biblioteca ou tecnologia nova diariamente.<br>
 
-<h3>Meus Projetos</h3>
+<h3>Alguns dos Meus Projetos</h3>
 <h3>Jogo Pedra, Papel, Tesoura</h3> um projeto de um dos jogos mais conhecidos pelas pessoas, contém uma interface gráfica bem interativa, é um projeto para quem quer se divertir muito.<br>
 <h3>Análise de Dados</h3> um projeto que recebe uma planilha do excel e pode fazer várias modificações e depois salvá-las em uma nova planilha.<br>
 <h3>Gerador de Senhas</h3> um codigo que pode gerar tanto senhas fáceis quanto difíceis e também salva-las em um arquivo de texto.<br>
