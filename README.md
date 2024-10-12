@@ -1,7 +1,7 @@
 
 <h1 align="center">Olá 👋, Eu sou Daniel</h1>
 <h3 align="center">Sou Desenvolvedor Back-End Python</h3>
-Entrei no mundo da programação há alguns meses, tendo começado pela linguagem C, após ela, passei rapidamente por linguagens como: javascript, mysql e bem pouco de php.<br>
+Entrei no mundo da programação há alguns meses, comecei a programar com a linguagem C, após ela, passei rapidamente por linguagens como: javascript, mysql e bem pouco de php.<br>
 Depois de um tempo comecei a aprender python e logo me interessei pela sua facilidade em lidar com dados, IA e automações.<br>
 E estou nele desde então, tento sempre aprender uma biblioteca ou tecnologia nova diariamente.<br>
 
