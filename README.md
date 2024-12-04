@@ -12,7 +12,7 @@ E estou nele desde então, tento sempre aprender uma biblioteca ou tecnologia no
 
 
 <h3>Meu Email</h3>
-- 📫 Entre em contato comigo pelo meu email **danielsantos7182@gmail.com**<br>
+- 📫 Entre em contato comigo pelo meu email **danielsantoss6273@gmail.com**<br>
 
 <!---
 <h3 align="left">Meu linkedin:</h3>
